@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "password": "$2b$10$VmZ1VgT7xouSTGVRKS4maucgMlnTZuwpy3y1fQ.ap6Vu/Qoo49vEW",
+    "fullName": "Johnathan Doe",
+    "age": 30
+  },
+  {
+    "id": 2,
+    "username": "Abubakr",
+    "password": "$2b$10$kFvKg.DSSbckbqiFZZ69PufLFa/qgJxDjgTFOaMzvabOB2MCcBwre",
+    "fullName": "Abdugaffarov A",
+    "age": 19,
+    "email": "Abubakr@example.com",
+    "gender": "male"
+  }
+]
